@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Tue Apr 18 22:31:33 PDT 2017
+2.base=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+6.file=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+1.set=ANDROID_RESOURCE
+2.file=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\sinch\\SampleReceiver1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE
